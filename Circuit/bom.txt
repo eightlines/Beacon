@@ -1,0 +1,21 @@
+Partlist exported from /Users/brent/Documents/eagle/iBeacon/iBeacon.sch at 2/26/2014 4:45 PM
+
+Part     Value         Device            Package           Description                                                                 MF MPN OC_FARNELL OC_NEWARK PROD_ID   VALUE
+AT1      2450AT18A100E 2450AT18A100E     2450AT18A100E                                                                                                                            
+BATT                   CR2032SMT         CR2032-SMD                                                                                                                               
+BLE      CC2540        CC2540            QFN40-6X6         2.4-GHz Bluetooth® low energy System-on-Chip                                                                           
+BLE_PROG               PINHD-1X5         1X05              PIN HEADER                                                                                                             
+C1       12pF          C-EUC0402         C0402             CAPACITOR, European symbol                                                                                             
+C2       12pF          C-EUC0402         C0402             CAPACITOR, European symbol                                                                                             
+C5       15pF          C-EUC0402         C0402             CAPACITOR, European symbol                                                                                             
+C6       15pF          C-EUC0402         C0402             CAPACITOR, European symbol                                                                                             
+C17                    C-EUC0402         C0402             CAPACITOR, European symbol                                                                                             
+COMM                   PINHD-1X2         1X02              PIN HEADER                                                                                                             
+F2       2450BM15A0002 2450BM15A0002     2450BM15A0002     2.45 GHz Impedance Matched Balun-Filter For TI CC253X/CC2540 Chipset family                                            
+LED1     GREEN         LED-GREEN0603     LED-0603          Various green LEDs                                                                                      DIO-00821 GREEN
+R1                     RESISTOR0402-RES  0402-RES          Resistor                                                                                                               
+R3       56k           R-US_R0402        R0402             RESISTOR, American symbol                                                                                              
+S1                     SWITCH-SPDT-SMD-A SWITCH-SPST-SMD-A SPDT Switch                                                                                                            
+VOLTREG                MIC5219XX         SOT23-5           VOLTAGE REGULATOR                                                                  unknown    unknown                  
+Y1       FA-128        FA-128            FA-128            MHz RANGE CRYSTAL UNIT                                                                                                 
+Y2       ABS06         ABS06             SMD                                                                                                                                      
